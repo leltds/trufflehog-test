@@ -1,14 +1,11 @@
 users = {
     'Ted Mosby': {
-        'password': '8d7b2700-ea06-4783-9016-bc5fd5787126',
         'email': 'ted.mosby@icloud.com'
     },
     'Marshall Eriksen': {
-        'password': 'fb78ea2d-06ed-4805-aeaa-444dedb1fe69',
         'email': 'marshall.eriksen@gmail.com'
     },
     'Lily Aldrin': {
-        'password': '8b486863-24da-4ce2-8f1b-eb7656194338',
         'email': 'lily.aldrin@yahoo.com'
     }
 }
