@@ -1,2 +1,17 @@
-aws_access_key_id = AKIAQYLPMN5HHHFPZXB2
-aws_secret_access_key = 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
+users = {
+    'Ted Mosby': {
+        'username': 'ted.mosby',
+        'password': '8d7b2700-ea06-4783-9016-bc5fd5787126',
+        'email': 'ted.mosby@icloud.com'
+    },
+    'Marshall Eriksen': {
+        'username': 'marshall.erikson',
+        'password': 'fb78ea2d-06ed-4805-aeaa-444dedb1fe69',
+        'email': 'marshall.eriksen@gmail.com'
+    },
+    'Lily Aldrin': {
+        'username': 'lily.aldrin',
+        'password': '8b486863-24da-4ce2-8f1b-eb7656194338',
+        'email': 'lily.aldrin@yahoo.com'
+    }
+}
